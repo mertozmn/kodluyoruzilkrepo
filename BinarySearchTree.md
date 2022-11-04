@@ -15,3 +15,5 @@
   root 7'dir.Sağında 8 bulunur.Solunda 5 bulunur.
   
                                                       
+# Patika
+[Patika](www.patika.dev)
